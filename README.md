@@ -1,4 +1,4 @@
-# PROJETO HIGIBEM
+# PROJETO TO-DO LIST
 Esse projeto foi desenvolvido durante um curso da Rocketseat, tem como objetivo fazer uma lista de tarefas, adicionando, removendo e marcando como concluída.
 
 ## TECNOLOGIAS USADAS
