@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido durante um curso da Rocketseat, tem como objetivo 
 - JavaScript
 
 ## LINK PARA ACESSO
-Você pode ver o projeto [CLICANDO AQUI!](nlw-journey-dun.vercel.app).
+Você pode ver o projeto [CLICANDO AQUI!](https://nlw-journey-dun.vercel.app).
 
 ## IMAGENS DO PROJETO
 ### Página Inicial 
